@@ -20,7 +20,6 @@
 # 2. 아키텍쳐
 ![image](https://github.com/Gong-siri/GongSiRi_Front/assets/86208370/0722f126-a3ea-4a23-b2db-9d521a485435)
 
-
 # 3. 주요 기능
 
 ## ✅ 회원가입, 로그인
