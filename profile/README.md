@@ -97,7 +97,23 @@ export default axiosInstance;
 
 <br>
 
-4. 실행 방법
+# 4. 실행 방법
+
+### 로컬 서버 구동
+
+- 배포된 API에 문제가 있는 경우 활용할 수 있는 로컬 서버 구동법입니다.
+- 로컬 서버는 sqlite에 의존성이 있습니다.
+
+### 설치 및 실행
+
+```zsh
+$ npm install
+$ npm start
+```
+
+- 위 순서대로 실행하면 localhost:8000 포트에 서버가 실행됩니다.
+- 서버를 실행하면 db.sqlite 파일이 생성되며 해당 파일을 삭제 시 기존의 데이터는 초기화 됩니다.
+  
 5. Directory 구조
 
 
