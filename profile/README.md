@@ -5,9 +5,8 @@
 [2. 아키텍쳐](#2._아키텍쳐) <br>
 [3. 주요기능](#3._주요_기능) <br>
 [4. 실행 방법](#4._실행_방법) <br> 
-[5. Directory 구조](#5._Directory_구조) <br>
-[6. Convention](#5._👏_convention) <br>
-[7. 팀 소개](#7._👨‍👧‍👧_팀_소개) <br>
+[5. Convention](#5._convention) <br>
+[6. 팀 소개](#6._팀_소개) <br>
 
 # 1. 서비스 소개
 ![image](https://github.com/Gong-siri/GongSiRi_Front/assets/86208370/356ec331-0c98-418d-bd5c-2f9624b47cc6)
@@ -120,13 +119,9 @@ $ npm start
 - 위 순서대로 실행하면 localhost:8000 포트에 서버가 실행됩니다.
 - 서버를 실행하면 db.sqlite 파일이 생성되며 해당 파일을 삭제 시 기존의 데이터는 초기화 됩니다.
   
-5. Directory 구조
-
-
-
 </br>
 
-# 6. 👏 convention
+# 5. convention
 
 ### **git Flow**
 
@@ -143,7 +138,7 @@ $ npm start
 - test: 테스트 추가/수정
 - chore: 빌드 관련 코드 수정
 
-## 7. 👨‍👧‍👧 팀 소개
+## 6. 팀 소개
 <br>
 
 ⚽ **팀장 김민아**
