@@ -95,6 +95,13 @@ export default axiosInstance;
 대시보드 화면에서 매물 게시 정보 변경을 통해 이동합니다. <br> 
 매물의 임대료 변경, 부가시설 변경, 매물 대표 이미지 변경을 통해 유저에게 매물의 정보를 제공합니다.
 
+## ✅ 매물 시세 분석
+![시세분석](https://github.com/Gong-siri/.github/assets/86208370/31fe96cd-5b29-4ea0-89ca-80015aabed02)
+![image](https://github.com/Gong-siri/.github/assets/86208370/d7ead6f2-4883-4208-88d3-1f0f559068de)
+주소(위도, 경도), 규모, 공실률, 순영업소득, 건물 층, 임대료를 활용합니다. <br>
+데스크 리서치를 통해 찾은 논문으로 임대료 예측 시 필요한 변수 후보들을 추출했습니다. <div>
+
+
 <br>
 
 # 4. 실행 방법
